@@ -41,4 +41,8 @@ volumes:
   postgresql:
     driver: local
   pgadmin:
+<<<<<<< HEAD
     driver: local
+=======
+    driver: local
+>>>>>>> 494b7b1 (Add docker-compose.yml)
